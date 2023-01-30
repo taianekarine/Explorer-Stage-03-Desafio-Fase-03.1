@@ -2,7 +2,7 @@
 <h1 align="center"> Projeto - Formulário </h1>
 
 <p align="center">
-Projeto desenvolvido durante o acompanhamento das aulas do Stage 03 do programa Explorer da Rocketseat.
+Projeto desenvolvido como desafio de desenvolver um formulário intermediário de acordo com o que foi visto nas aulas da fase 01 do Stage 03 do programa Explorer da Rocketseat.
 </p>
 
 <p align="center">
@@ -34,6 +34,7 @@ Avançando no HTML e CSS
 ![PRO2-1](https://user-images.githubusercontent.com/94652702/215498458-213d374e-d2c9-407c-a8d8-82b12aa381c1.png)
 <br>
 Link do Figma: 
+<br>
 https://www.figma.com/file/i1yI8vi8HSCMRIGld9pvYH/Stage-03---Formul%C3%A1rio-intermedi%C3%A1rio-(Copy)?node-id=0%3A1&t=m9F3dNxjywzBkuys-0
 ## Aprendizado
 
