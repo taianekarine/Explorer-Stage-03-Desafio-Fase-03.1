@@ -45,4 +45,4 @@ https://www.figma.com/file/i1yI8vi8HSCMRIGld9pvYH/Stage-03---Formul%C3%A1rio-int
 
 ---
 
-Feito com 🧡 by Taiane Karine e Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com 🧡 by Taiane Karine
