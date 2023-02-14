@@ -38,10 +38,10 @@ Link do Figma:
 https://www.figma.com/file/i1yI8vi8HSCMRIGld9pvYH/Stage-03---Formul%C3%A1rio-intermedi%C3%A1rio-(Copy)?node-id=0%3A1&t=m9F3dNxjywzBkuys-0
 ## Aprendizado
 
-- Ferramentas dev do navegador
-- Posicionando textos e elementos
-- Acessibilidade
-- Tags semânticas (input, textarea, checkbox, submit, button)
+- Ferramentas dev do navegador;
+- Posicionando textos e elementos;
+- Acessibilidade;
+- Tags semânticas (input, textarea, checkbox, submit, button);
 
 ---
 
